@@ -1,1 +1,1 @@
-# pirate_treausre_map
+# pirate_treasure_map
